@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472644315730",
+    "project_id": "smazeetask",
+    "storage_bucket": "smazeetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472644315730:android:b4bcffe66c46cb18f88d8b",
+        "android_client_info": {
+          "package_name": "com.example.smazee_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472644315730-0tfklbq8genl0fjl1gs3vbnmm51oa84q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrR5tcLVvnHIcQSiH63wMXoiPKvk2stVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472644315730-0tfklbq8genl0fjl1gs3vbnmm51oa84q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
