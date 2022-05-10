@@ -12,8 +12,6 @@ A Flutter project.
 3. User info updation
 4. Decent UI/UX
 
-### POSSIBLE IMPROMENTS : 
-
 
 ### LIMITATIONS : 
 1. Email & Password validation methods used are very simple [ Regex expressions not used ]
