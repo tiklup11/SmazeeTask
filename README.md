@@ -1,16 +1,32 @@
 # smazee_task
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+### VERSIONS :
+- Flutter verions : 2.10.5 • channel stable
+- Dart 2.16.2 
 
-This project is a starting point for a Flutter application.
+### INCLUDES : 
+1. Email auth
+2. User registration
+3. User info updation
+4. Decent UI/UX
 
-A few resources to get you started if this is your first Flutter project:
+### POSSIBLE IMPROMENTS : 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### LIMITATIONS : 
+1. Email & Password validation methods used are very simple [ Regex expressions not used ]
+2. Email OTP not implemented.
+3. Dropdown to select Country is not implemented.
+
+### HOW TO SETUP : 
+- `git clone https://github.com/tiklup11/SmazeeTask.git`
+- `cd SmazeeTask`
+- to open in vscode : `code .`
+- to get all dependencies : `flutter pub get`
+- to run : `flutter run`
+
+
+Link to released apk : https://index.fastlinkgenbot.workers.dev/0:/FastLinks/app-release.apk
+
